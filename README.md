@@ -1,3 +1,7 @@
+## Compared with TFmini, TFminiPlus has the following advantages:
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190927161205913.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl8zNzc1NDAzNg==,size_16,color_FFFFFF,t_70)
+
 - [Benewake homepage](http://en.benewake.com/product/detail/5c345cd0e5b3a844c472329b.html), you can find order link here.  
 
 - [TFmini-Plus data download](http://en.benewake.com/download).  
